@@ -1,0 +1,9 @@
+near Ic
+=>
+{
+gnd
+rst
+sck
+miso
+mosi
+}
